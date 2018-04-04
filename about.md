@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is xiaoyao's linux learning and problem solving site
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+If you find any error or anything interesting about linux to share with me, do drop me an email. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhulingjie93@gmail.com](mailto:zhulingjie93@gmail.com)
